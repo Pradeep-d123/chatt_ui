@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "454677347549",
+    "project_id": "freedome-chatt-app",
+    "storage_bucket": "freedome-chatt-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:454677347549:android:ca47ed09dbc67470926f34",
+        "android_client_info": {
+          "package_name": "com.example.flutter_chatt_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "454677347549-u199jobj636o8i4u3a4l60et5ovf2puc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoY1bWkZ9VOdr0q4bgGX2D-evNn1oZD30"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "454677347549-u199jobj636o8i4u3a4l60et5ovf2puc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
